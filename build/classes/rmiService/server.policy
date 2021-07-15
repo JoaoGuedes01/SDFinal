@@ -1,0 +1,6 @@
+grant {
+    permission java.security.AllPermission "", "";
+};
+grant codeBase "file:D:\netbeans\projetos\projetoFase2\src\rmiService" {
+    permission java.security.AllPermission;
+};

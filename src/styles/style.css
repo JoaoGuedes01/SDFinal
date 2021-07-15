@@ -1,0 +1,81 @@
+.scroll-pane > .viewport{
+    -fx-background-color: transparent;
+}
+
+.scroll-pane{
+    -fx-background-color: transparent;
+}
+
+#ContactBtn:hover{
+    -fx-background-color:#34373c;
+    -fx-cursor:hand;
+}
+
+#ContactBtn{
+    -fx-background-color: #2f3136;
+    -fx-text-fill: #8e9297;
+    -fx-pref-width:250px;
+}
+
+#btnA:hover{
+    /* -fx-background-color:#34373c;*/
+    -fx-background-color:#34373c;
+    -fx-cursor:hand;
+}
+
+#btnR:hover{
+    /*-fx-background-color:#34373c;*/
+    -fx-background-color:#34373c;
+    -fx-cursor:hand;
+}
+
+#btnA{
+    /*-fx-background-color: #43b581;*/
+    -fx-background-color: #2f3136;
+    -fx-text-fill: #8e9297;
+}
+
+#btnR{
+    /*-fx-background-color: #f04747;*/
+    -fx-background-color: #2f3136;
+    -fx-text-fill: #8e9297;
+}
+
+#newMessage{
+    -fx-font-family: "Arial Rounded MT Bold";
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: blueviolet;
+}
+
+#msgTxtFld{
+    -fx-background-color: #2f3136;
+    -fx-text-fill: #8e9297;
+    -fx-pref-width:250px;
+}
+
+#contactLabelMsg{
+    -fx-text-fill: #ffffff;
+}
+#BoardLabelMsg{
+    -fx-background-color: #2f3136;
+    -fx-text-fill: #8e9297;
+    -fx-pref-width:1000px;
+}
+#port_txtfld{
+    -fx-background-color:  #31343c;
+    -fx-text-fill:#868991;
+}
+#ip_txtfld{
+    -fx-background-color:  #31343c;
+    -fx-text-fill:#868991;
+}
+.combo-box .combo-box-popup .list-cell {
+    -fx-background-color: #2f3136;
+    -fx-text-fill: #868991;
+    -fx-font-family: "Calibri" ;
+}
+#estado_cb{
+    -fx-background-color:  transparent;
+    -fx-text-alignment: center;
+}
